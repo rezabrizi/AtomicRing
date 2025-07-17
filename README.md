@@ -110,3 +110,8 @@ From the histogram above, you can see the SPMC Queue completely overtakes the ot
 
 ## 📝 Code
 The code for SPMC Queue and all the benchmarking done is available in the `src` folder.
+
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
